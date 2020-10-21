@@ -1,0 +1,326 @@
+* {
+    overflow-x: hidden;
+    padding: 0px !important;
+    margin: 0px !important;
+  }
+
+.background{
+    width: 100vw;
+    height: 750vh;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.8) 0%, rgba(255, 138, 0, 0.8) 15.62%, rgba(204, 255, 0, 0.8) 32.81%, rgba(0, 255, 102, 0.8) 49.48%, rgba(0, 240, 255, 0.8) 67.71%, rgba(189, 0, 255, 0.8) 81.77%, rgba(255, 0, 46, 0.8) 97.92%);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.question1 {
+    width: 100vw;
+    height: 75vh;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 5vh;
+    left: 5vw;
+    font-family: Luckiest Guy;
+    font-weight: Regular;
+    font-size: 144px;
+    opacity: 1;
+    text-align: left;
+}
+.question2 {
+    width: 100vw;
+    height: 75vh;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 75vh;
+    left: 5vw;
+    font-family: Luckiest Guy;
+    font-weight: Regular;
+    font-size: 144px;
+    opacity: 1;
+    text-align: left;
+}
+.question3 {
+    width: 100vw;
+    height: 75vh;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 145vh;
+    left: 5vw;
+    font-family: Luckiest Guy;
+    font-weight: Regular;
+    font-size: 144px;
+    opacity: 1;
+    text-align: left;
+}
+.question4 {
+    width: 100vw;
+    height: 75vh;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 215vh;
+    left: 5vw;
+    font-family: Luckiest Guy;
+    font-weight: Regular;
+    font-size: 144px;
+    opacity: 1;
+    text-align: left;
+}
+.question5 {
+    width: 100vw;
+    height: 75vh;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 285vh;
+    left: 5vw;
+    font-family: Luckiest Guy;
+    font-weight: Regular;
+    font-size: 144px;
+    opacity: 1;
+    text-align: left;
+}
+.question6 {
+    width: 100vw;
+    height: 75vh;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 355vh;
+    left: 5vw;
+    font-family: Luckiest Guy;
+    font-weight: Regular;
+    font-size: 144px;
+    opacity: 1;
+    text-align: left;
+}
+.question7 {
+    width: 100vw;
+    height: 75vh;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 425vh;
+    left: 5vw;
+    font-family: Luckiest Guy;
+    font-weight: Regular;
+    font-size: 144px;
+    opacity: 1;
+    text-align: left;
+}
+.question8 {
+    width: 100vw;
+    height: 75vh;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 495vh;
+    left: 5vw;
+    font-family: Luckiest Guy;
+    font-weight: Regular;
+    font-size: 144px;
+    opacity: 1;
+    text-align: left;
+}
+.question9 {
+    width: 100vw;
+    height: 75vh;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 565vh;
+    left: 5vw;
+    font-family: Luckiest Guy;
+    font-weight: Regular;
+    font-size: 144px;
+    opacity: 1;
+    text-align: left;
+}
+.question10 {
+    width: 100vw;
+    height: 75vh;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 635vh;
+    left: 5vw;
+    font-family: Luckiest Guy;
+    font-weight: Regular;
+    font-size: 144px;
+    opacity: 1;
+    text-align: left;
+}
+.answer {
+    width: 17vw;
+    position: relative;
+    font-family: McLaren;
+    font-weight: Regular;
+    font-size: 72px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v14_6 {
+    width: 826px;
+    height: 414px;
+    background: url("../media/v14_6.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 25vh;
+    left: 35vw;
+    overflow: hidden;
+}
+
+.v15_0 {
+    width: 826px;
+    height: 414px;
+    background: url("../media/v15_0.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    overflow: hidden;
+    top: 25vh;
+    left: 30vw;
+}
+
+.v15_3 {
+    width: 19vw;
+    height: 45vh;
+    background: url("../media/v15_3.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 20vh;
+    left: 40vw;
+    overflow: hidden;
+}
+
+.v18_13 {
+    width: 40vw;
+    height: 50vh;
+    background: url("../media/v18_13.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    overflow: hidden;
+    top: 15vh;
+    left: 35vw;
+}
+
+.v18_17 {
+    width: 40vw;
+    height: 50vh;
+    background: url("../media/v18_17.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    overflow: hidden;
+    top: 17vh;
+    left: 35vw;
+}
+
+.v20_16 {
+    width: 20vw;
+    height: 40vh;
+    background: url("../media/v20_16.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    overflow: hidden;
+    top: 17vh;
+    left: 45vw;
+}
+
+.v20_22 {
+    width: 40vw;
+    height: 50vh;
+    background: url("../media/v20_22.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    overflow: hidden;
+    top: 17vh;
+    left: 35vw;
+}
+
+.v21_12 {
+    width: 20vw;
+    height: 50vh;
+    background: url("../media/v21_12.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    overflow: hidden;
+    top: 17vh;
+    left: 45vw;
+}
+
+.v21_14 {
+    width: 20vw;
+    height: 50vh;
+    background: url("../media/v21_14.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    overflow: hidden;
+    top: 17vh;
+    left: 45vw;
+
+}
+.v22_1 {
+    width: 12vw;
+    height: 50vh;
+    background: url("../media/v22_1.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    overflow: hidden;
+    top: 17vh;
+    left: 45vw;
+}
+
+.resultbutton {
+    width: 60vw;
+    height: 20vh;
+    background: linear-gradient(rgba(0,0,0,1), rgba(22,22,22,1));
+    opacity: 1;
+    position: absolute;
+    top: 720vh;
+    left: 20vw;
+    border-top-left-radius: 32px;
+    border-top-right-radius: 32px;
+    border-bottom-left-radius: 32px;
+    border-bottom-right-radius: 32px;
+    overflow: hidden;
+    z-index: 1;
+    outline:none;
+}
+.resulttext {
+    width: 50vw;
+    color: rgba(235,235,235,1);
+    position: absolute;
+    top: 5vh;
+    left: 5vw;
+    font-family: Sanchez;
+    font-weight: Regular;
+    font-size: 70px;
+    opacity: 1;
+    text-align: center;
+    z-index: 2;
+}

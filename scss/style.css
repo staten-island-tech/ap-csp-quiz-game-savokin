@@ -1,0 +1,206 @@
+/* HOMEPAGE */
+
+* {
+    overflow-x: hidden;
+    padding: 0px !important;
+    margin: 0px !important;
+  }
+  .v2_2 {
+    position: relative;
+    height: 125vh;
+    width: 100vw;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.8) 0%, rgba(255, 138, 0, 0.8) 15.62%, rgba(204, 255, 0, 0.8) 32.81%, rgba(0, 255, 102, 0.8) 49.48%, rgba(0, 240, 255, 0.8) 67.71%, rgba(189, 0, 255, 0.8) 81.77%, rgba(255, 0, 46, 0.8) 97.92%);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+    
+  }
+  .v3_2 {
+    width: 75vw;
+    height: 60vh;
+    background: url("../media/7a8407ab75c89d83b1543ef453cf7d96.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 30vh;
+    left: 10vw;
+    border: 20px solid rgba(48,48,48,1);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+  }
+  .v3_4 {
+    width: 100%;
+    color: rgba(247,247,247,1);
+    position: absolute;
+    top: 5vh;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Quando;
+    font-weight: Regular;
+    font-size: 96px;
+    opacity: 1;
+    text-align: center;
+  
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  .v3_5 {
+    width: 100%;
+    color: rgba(255,249,249,1);
+    position: absolute;
+    top: 16vh;
+    font-family: Quando;
+    font-weight: Regular;
+    font-size: 64px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v4_2 {
+    width: 60vw;
+    height: 15vh;
+    background: linear-gradient(rgba(0,0,0,1), rgba(22,22,22,1));
+    opacity: 1;
+    position: absolute;
+    top: 100vh;
+    left: 20vw;
+    border-top-left-radius: 32px;
+    border-top-right-radius: 32px;
+    border-bottom-left-radius: 32px;
+    border-bottom-right-radius: 32px;
+    overflow: hidden;
+  }
+  .v4_3 {
+    width: 50vw;
+    color: rgba(235,235,235,1);
+    position: absolute;
+    top: 103vh;
+    left: 25vw;
+    font-family: Sanchez;
+    font-weight: Regular;
+    font-size: 64px;
+    opacity: 1;
+    text-align: center;
+  }
+
+
+  
+
+/* Score 1 to 4 */
+
+
+  * {
+    overflow-x: hidden;
+    padding: 0px !important;
+    margin: 0px !important;
+  }
+  .v22_5 {
+    width: 100%;
+    height: 1024px;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.8) 0%, rgba(255, 138, 0, 0.8) 15.62%, rgba(204, 255, 0, 0.8) 32.81%, rgba(0, 255, 102, 0.8) 49.48%, rgba(0, 240, 255, 0.8) 67.71%, rgba(189, 0, 255, 0.8) 81.77%, rgba(255, 0, 46, 0.8) 97.92%);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v22_7 {
+    width: 100%;
+    color: rgba(247,247,247,1);
+    position: absolute;
+    top: 39px;
+    left: 34px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Quando;
+    font-weight: Regular;
+    font-size: 96px;
+    opacity: 1;
+    text-align: center;
+ 
+  }
+  .v22_8 {
+    width: 100%;
+    color: whitesmoke;
+    position: absolute;
+    top: 164px;
+    font-family: Quando;
+    font-weight: Regular;
+    font-size: 48px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v22_9 {
+    width: 871px;
+    height: 158px;
+    background: linear-gradient(rgba(0,0,0,1), rgba(22,22,22,1));
+    opacity: 1;
+    position: absolute;
+    top: 829px;
+    left: 29vw;
+    border-top-left-radius: 32px;
+    border-top-right-radius: 32px;
+    border-bottom-left-radius: 32px;
+    border-bottom-right-radius: 32px;
+    overflow: hidden;
+  }
+  .v22_10 {
+    width: 838px;
+    color: rgba(235,235,235,1);
+    position: absolute;
+    top: 868px;
+    left: 30vw;
+    font-family: Sanchez;
+    font-weight: Regular;
+    font-size: 64px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v22_12 {
+    width: 384px;
+    height: 467px;
+    background: url("../media/v22_12.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 27vh;
+    left: 40vw;
+    border: 20px solid rgba(38,38,38,1);
+    overflow: hidden;
+  }
+
+/* Score 5 to 8 */
+
+.v22_21 {
+    width: 40vw;
+    height: 467px;
+    background: url("../media/v22_21.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 27vh;
+    left: 30vw;
+    border: 20px solid rgba(38,38,38,1);
+    overflow: hidden;
+  }
+
+  /* Score 9 to 12 */
+  
+.v22_30 {
+  width: 40vw;
+  height: 467px;
+  background: url("../media/v22_30.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 30vh;
+  left: 30vw;
+  border: 20px solid rgba(38,38,38,1);
+  overflow: hidden;
+}
